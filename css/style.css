@@ -106,10 +106,9 @@
 /*** Header ***/
 #home {
     margin-bottom: 6rem;
-    background: url(../img/header.jpg);
-    background-size: inherit;
     background-repeat: no-repeat;
     background-position: center center;
+    background: linear-gradient(#cebfff, #ffffff);
 }
 
 .typed-cursor {
